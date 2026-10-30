@@ -1,0 +1,1 @@
+"""Local SQLite session history."""
